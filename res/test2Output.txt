@@ -1,0 +1,5 @@
+./res/test2Bild0.bmp 170 146
+./res/test2Bild1.bmp 259 611
+./res/test2Bild2.bmp 368 280
+./res/test2Bild3.bmp 812 622
+7
